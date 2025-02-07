@@ -13,7 +13,9 @@ Delete employee information if no longer needed.
 
 View all employees in a table format.
 
+
 🔧 Technologies Used :
+
 
 Frontend: HTML, CSS
 
